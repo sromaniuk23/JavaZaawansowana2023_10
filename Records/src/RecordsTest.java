@@ -1,4 +1,6 @@
 public class RecordsTest {
+    private final static SomeOtherClass someOtherClassObject = new SomeOtherClass();
+
     public static void main(String[] args) {
         Car car = new Car("Clio","Renault",16);
 
@@ -29,5 +31,10 @@ public class RecordsTest {
         System.out.println(Car.SEAT);
         System.out.println(car.SEAT);
 
+        //ogolnie rzecz ujmujac zmienna/pole finalne NIE moze zmieniac referencji, ale sam obiekt na ktory wskazuje moze sie zmienic
+        System.out.println(someOtherClassObject.getA());
+        someOtherClassObject.increaseValue();
+        System.out.println(someOtherClassObject.getA());
+//        someOtherClassObject=new SomeOtherClass();
     }
 }

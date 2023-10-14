@@ -3,14 +3,19 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractClasses/AbstractClasses.iml" filepath="$PROJECT_DIR$/AbstractClasses/AbstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericTypes/GenericTypes.iml" filepath="$PROJECT_DIR$/GenericTypes/GenericTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/InnerClasses/InnerClasses.iml" filepath="$PROJECT_DIR$/InnerClasses/InnerClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaZaawansowana2023_10.iml" filepath="$PROJECT_DIR$/JavaZaawansowana2023_10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Klasa_Interfejsy_Zadania/Klasa_Interfejsy_Zadania.iml" filepath="$PROJECT_DIR$/Klasa_Interfejsy_Zadania/Klasa_Interfejsy_Zadania.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Records/Records.iml" filepath="$PROJECT_DIR$/Records/Records.iml" />
       <module fileurl="file://$PROJECT_DIR$/SealedClasses/SealedClasses.iml" filepath="$PROJECT_DIR$/SealedClasses/SealedClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadania_Collections/Zadania_Collections.iml" filepath="$PROJECT_DIR$/Zadania_Collections/Zadania_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadania_KlasyInterfejsy/Zadania_KlasyInterfejsy.iml" filepath="$PROJECT_DIR$/Zadania_KlasyInterfejsy/Zadania_KlasyInterfejsy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadania_TypyGeneryczne/Zadania_TypyGeneryczne.iml" filepath="$PROJECT_DIR$/Zadania_TypyGeneryczne/Zadania_TypyGeneryczne.iml" />
     </modules>
   </component>
 </project>
