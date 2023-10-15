@@ -9,11 +9,13 @@
       <module fileurl="file://$PROJECT_DIR$/GenericTypes/GenericTypes.iml" filepath="$PROJECT_DIR$/GenericTypes/GenericTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/InnerClasses/InnerClasses.iml" filepath="$PROJECT_DIR$/InnerClasses/InnerClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIO_NIO/JavaIO_NIO.iml" filepath="$PROJECT_DIR$/JavaIO_NIO/JavaIO_NIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaZaawansowana2023_10.iml" filepath="$PROJECT_DIR$/JavaZaawansowana2023_10.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Optionals/Optionals.iml" filepath="$PROJECT_DIR$/Optionals/Optionals.iml" />
       <module fileurl="file://$PROJECT_DIR$/Records/Records.iml" filepath="$PROJECT_DIR$/Records/Records.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflections/Reflections.iml" filepath="$PROJECT_DIR$/Reflections/Reflections.iml" />
       <module fileurl="file://$PROJECT_DIR$/SealedClasses/SealedClasses.iml" filepath="$PROJECT_DIR$/SealedClasses/SealedClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/Zadania_Collections/Zadania_Collections.iml" filepath="$PROJECT_DIR$/Zadania_Collections/Zadania_Collections.iml" />
